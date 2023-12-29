@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Landingpage-react/static/css/main.bf3d2e6e.css",
+    "main.js": "/Landingpage-react/static/js/main.a5244fc8.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Landingpage-react/static/js/787.d4aba7ab.chunk.js",
+    "static/media/remixicon.svg?t=1690730386070": "/Landingpage-react/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/boxicons.svg": "/Landingpage-react/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/Landingpage-react/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/Landingpage-react/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/boxicons.eot": "/Landingpage-react/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/Landingpage-react/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/Landingpage-react/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/remixicon.woff?t=1690730386070": "/Landingpage-react/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/bootstrap-icons.woff?": "/Landingpage-react/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/Landingpage-react/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/bootstrap-icons.woff2?": "/Landingpage-react/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/boxicons.woff2": "/Landingpage-react/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/counts-img.svg": "/Landingpage-react/static/media/counts-img.4558949326fbbd853f2b130b81232940.svg",
+    "static/media/hero-img.png": "/Landingpage-react/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "index.html": "/Landingpage-react/index.html",
+    "main.bf3d2e6e.css.map": "/Landingpage-react/static/css/main.bf3d2e6e.css.map",
+    "main.a5244fc8.js.map": "/Landingpage-react/static/js/main.a5244fc8.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Landingpage-react/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3d2e6e.css",
+    "static/js/main.a5244fc8.js"
+  ]
+}
